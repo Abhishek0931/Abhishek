@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @envysolo
+- 👋 Hi, I’m
 - 👀 I’m interested in Cybersecurity 
 - 🌱 I’m currently learning various Cybersecurity tools
 
