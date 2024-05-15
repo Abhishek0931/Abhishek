@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning various Cybersecurity tools
 
 <!---
-envysolo/envysolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Abhishek0931/envysolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
